@@ -7,7 +7,9 @@ Three lists of MWE candidates are made available, automatically scored for seman
 They are drawn from a 10% sample of sentences in the English Wikipedia dump from 20 May 2020.
 
 wiki10pc_comp.tsv      - Principal list of bi- and tri-gram candidates
+
 wiki10pc_tag_comp.tsv  - Candidates with POS tags assigned using the Stanford tagger
+
 wiki10pc_nopn_comp.tsv - POS-tagged candidates, with proper nouns excluded
 
 ## Code
